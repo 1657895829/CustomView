@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--在declare-styleable控件中写自定义view的属性-->
+    <!--    format表示自定义view属性值的取值类型     -->
+    <declare-styleable name="CustomTextView">
+        <attr name="text" format="string"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textColor" format="color"/>
+    </declare-styleable>
+
+</resources>

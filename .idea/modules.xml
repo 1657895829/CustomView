@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomBallView_RandomColor/CustomBallView_RandomColor.iml" filepath="$PROJECT_DIR$/CustomBallView_RandomColor/CustomBallView_RandomColor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomView/CustomView.iml" filepath="$PROJECT_DIR$/CustomView/CustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit01_CustomView.iml" filepath="$PROJECT_DIR$/Unit01_CustomView.iml" />
+    </modules>
+  </component>
+</project>

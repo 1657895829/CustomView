@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!--    如上：自定义view的布局文件必写属性：xmlns:app="http://schemas.android.com/apk/res-auto"-->
+
+    <!--    自定义矩形TextView的view控件属性  -->
+    <!--    自定义view的属性声明时使用   app:     前缀   -->
+    <com.bwie.CustomView.view.CustomTextView
+        android:layout_centerInParent="true"
+        android:layout_marginTop="28dp"
+        android:layout_width="188dp"
+        android:layout_height="188dp"
+
+        app:textSize="18sp"
+        app:text="自定义TextView"
+        app:textColor="@color/colorAccent"  />
+
+
+    <!--    自定义圆形进度条view时的控件属性  -->
+<!--    <com.bwie.CustomView.view.CustomProgressView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />-->
+
+    <!--    自定义圆形view时的控件属性  -->
+<!--    <com.bwie.CustomView.view.CustomCircleView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />-->
+
+</RelativeLayout>
