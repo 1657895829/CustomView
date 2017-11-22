@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 /**
- * 自定义圆形view
+ * 自定义圆环view
  */
 public class CustomCircleView extends View{
     private Paint paint;
